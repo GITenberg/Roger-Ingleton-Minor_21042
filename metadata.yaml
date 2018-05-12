@@ -1,0 +1,32 @@
+_repo: Roger-Ingleton-Minor_21042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: ''
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Tutors and tutoring -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Roger Ingleton, Minor
+url: http://www.gutenberg.org/ebooks/21042
